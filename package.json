@@ -1,0 +1,16 @@
+{
+	"name":"NSS",
+	"version":"0.1.0",
+	"description":"NSS Homepage",
+	"main":"server.js",
+	"scripts":{
+		"test":"echo\"Error:no test specified\"&& exit"
+	},
+	"author":"Ranjith",
+	"license":"ISC",
+	"repository":{
+		"express":"^4.14.0",
+		"morgan":"^1.7.0"
+	}
+}
+
